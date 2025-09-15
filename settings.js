@@ -69,7 +69,7 @@ global.wm = process.env.GL_WM || "> ©KANGO-XMD"
 global.mess = { 
   done: '*Done*', 
   success: '©kango-xmd', 
-  owner: `*You don't have permission to use this command!*`, 
+  owner: `*You don't have permission to use this command MONKEY!*`, 
   group: '*This feature becomes available when you use it in a group!*', 
   admin: '*You’ll unlock this feature with me as an admin!*', 
   notadmin: '*This feature will work once you become an admin. A way of ensuring order!*' 
