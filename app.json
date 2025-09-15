@@ -1,10 +1,9 @@
 {
-  "name": "KANGO-XMD",
+  "name": "FEARLESS-XMD",
   "version": "2.4.5",
-  "description": "KANGO, the best WhatsApp Bot",
+  "description": "the best WhatsApp Bot",
   "logo": "https://i.imgur.com/1DkLGVk.jpeg",
   "keywords": ["whatsapp", "bot", "md"],
-  "repository": "https://github.com/OfficialKango/KANGO-XMD-LITE",
   "stack": "container",
   "scripts": {
     "start": "node index.js"
@@ -16,17 +15,17 @@
       "required": false
     },
     "BOT_NAME": {
-      "description": "Enter your bot name here",
+      "description": "FEARLESS-BOT",
       "value": "Kango-Bot",
       "required": false
     },
     "OWNER_NUMBER": {
-      "description": "Enter your number here, starting with country code E.g 233xxxxxxxx",
+      "description": "2348131467919",
       "value": "",
       "required": true
     },
     "OWNER_NAME": {
-      "description": "Enter your name here",
+      "description": "FEARLESS",
       "value": "",
       "required": true
     },
